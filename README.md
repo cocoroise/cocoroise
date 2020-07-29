@@ -1,16 +1,34 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    
+    巴巴的活着，每天打水，煮饭，按时吃药
 
-<!--
-**cocoroise/cocoroise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    阳光好的时候就把自己放进去，像一块陈皮
 
-Here are some ideas to get you started:
+    茶叶轮换着喝，菊花，茉莉，玫瑰，柠檬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    这些美好的事物都彷佛把我往春天的路上带
+
+    所以我一次次按住内心的雪
+
+    它们过于洁白过于接近春天
+
+    在干净的院子里读你的诗歌。这人间情事
+
+    恍惚如突然飞过的麻雀儿
+
+    而光明皎洁。我不适合肝肠寸断
+
+    如果给你寄一本书，我不会寄给你诗歌
+
+    我要给你寄一本关于植物的，关于庄稼的
+
+    告诉你关于稻子和稗子的区别
+
+    告诉你一颗稗子提心吊胆的
+
+    春天
+  </samp>
+</p>
