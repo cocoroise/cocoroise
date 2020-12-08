@@ -1,14 +1,13 @@
 <p align="center">
-  <img src="http://image.cocoroise.cn/200w.webp" width="180px">
+  <img src="http://image.cocoroise.cn/clogo.png" width="300"/>
   <br><br>
-  <samp>
-    
-    我本可以忍受黑暗
-
-    如果我不曾见过太阳
-
-    然而阳光已使我的荒凉
-
-    成为更新的荒凉
-  </samp>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cocoroise&&show_icons=true&theme=radical&line_height=27&v=5" alt="cocoroise's GitHub Stats" /> 
+</p>
+
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoroise&theme=radical&layout=compact" />
+</p>
+
