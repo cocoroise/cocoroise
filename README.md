@@ -1,3 +1,5 @@
+## &#x1f4c8; GitHub Stats
+
 <p align="center">
   <img src="http://image.cocoroise.cn/clogo.png" width="200"/>
   <br><br>
@@ -11,3 +13,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocoroise&theme=radical&layout=compact" />
 </p>
 
+<a href="https://github.com/cocoroise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cocoroise&repo=image-editor&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="http://cocoroise.cn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cocoroise&repo=front-end-book&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
