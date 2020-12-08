@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://image.cocoroise.cn/clogo.png" width="300"/>
+  <img src="http://image.cocoroise.cn/giphy.webp"/>
   <br><br>
 </p>
 
