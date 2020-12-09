@@ -1,11 +1,8 @@
-## &#x1f4c8; GitHub Stats
 
 <p align="center">
-  <img src="http://image.cocoroise.cn/clogo.png" width="200"/>
+  <img src="http://image.cocoroise.cn/clogo.png" width="300"/>
   <br><br>
 </p>
-
-
 
 
 <a href="https://github.com/cocoroise">
