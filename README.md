@@ -8,6 +8,4 @@
 
 ![Alt](https://repobeats.axiom.co/api/embed/135247b90f3e63ba492282788b530f7264cf6c5f.svg "Repobeats analytics image")
 
-![Alt](https://repobeats.axiom.co/api/embed/cc615b860604803090fdb904c6b1edddcbe323b0.svg "Repobeats analytics image")
-
 -used [repobeats](https://repobeats.axiom.co/)
